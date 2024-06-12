@@ -60,10 +60,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align=left>
 
 <a href="https://github.com/IT22106292/"> 
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IT22106292&theme=midnight-purple&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=midnight-purple&hide_border=false" /> 
+
+ <img src="https://github-readme-stats.vercel.app/api?username=IT22106292&hide=issues&show_icons=true&theme=gotham&locale=en&hide_border=true&layout=compact" alt="IT22106292's github stats" width=450px/>
+</a><br><br>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=IT22106292&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IT22106292" />
 
 <br>
 <br>      
