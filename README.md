@@ -27,7 +27,7 @@
 - **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,idea,js" />
+    <img src="https://skillicons.dev/icons?i=css,html,js" />
   </a>
 </p>
 <br>
