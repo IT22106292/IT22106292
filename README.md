@@ -58,7 +58,7 @@
 
 <a href="https://github.com/IT22106292/"> 
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT22106292&show_icons=true&count_private=true&hide=stars&hide_border=true&include_all_commits=false&theme=material-palenight" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IT22106292&theme=midnight-purple&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=midnight-purple&hide_border=false" /> 
 
