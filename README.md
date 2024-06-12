@@ -58,20 +58,15 @@
 
 <a href="https://github.com/IT22106292/"> 
   
- ![IT22106292's github stats](https://github-readme-stats.vercel.app/api?username=IT22106292&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=tokyonight" alt="mystreak"/>
-![IT22106292's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT22106292y&theme=tokyonight&layout=compact)
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IT22106292&theme=midnight-purple&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=midnight-purple&hide_border=false" /> 
+
 <br>
 <br>      
 <br>
- <br>      
-<br>
-<br>
- <br>      
-<br>
-<br>
-<br>
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
+
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
 <a href = "mailto:it22106292@my.sliit.lk"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <br>
 <br>
