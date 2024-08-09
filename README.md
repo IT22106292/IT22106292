@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 - 👨‍💻 Studying [Computer Science] at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 📫 How to reach me **it22106292@my.sliit.lk**
+- 📫 How to reach me **archanasamadari@gmail.com**
 <br>
 
 
