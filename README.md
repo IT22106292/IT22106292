@@ -61,15 +61,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
  <img src="https://github-readme-stats.vercel.app/api?username=IT22106292&hide=issues&show_icons=true&theme=gotham&locale=en&hide_border=true&layout=compact" alt="IT22106292's github stats" width=450px/>
 </a><br><br>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=IT22106292&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IT22106292" />
 
-<br>
-<br>      
-<br>
-<br>
-<br>      
-<br>
-<br>
 <br>      
 <br>
 <br>
