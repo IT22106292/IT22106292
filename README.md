@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 👨‍💻 Studying [Software Engineering] at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 📫 How to reach me **archanasamadari@gmail.com**
 <br>
