@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - **I am a Full Stack Development Enthusiast with a huge love for Python, React.js, Node.js, REST API and Data Visualization.**
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 **I’m currently learning MERN**
 - 👨‍💻 Studying [Software Engineering] at **Sri Lanka Institute of Information Technology (SLIIT)**
 <br>
 
