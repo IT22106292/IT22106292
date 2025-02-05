@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 <br>
 
-- **Front-End Development**
+- **Back-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - **Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,php" />
+    <img src="https://skillicons.dev/icons?i=mysql,php,mongodb" />
   </a>
 </p>
 <br>
