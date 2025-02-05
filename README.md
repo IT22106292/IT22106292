@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>      
 <br>
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
-<a href = "mailto:it22106292@my.sliit.lk"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-0.png" height="30" width="40" /></a>
+<a href = "mailto:it22106292@my.sliit.lk"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-0.png" height="80" width="100" /></a>
 <br>
 <br>
 
