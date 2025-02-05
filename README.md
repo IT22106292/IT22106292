@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>      
 <br>
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
-<a href = "mailto:it22106292@my.sliit.lk"><img align="center" src="https://www.flaticon.com/free-icon/gmail_732200" height="30" width="40" /></a>
+<a href = "mailto:it22106292@my.sliit.lk"><img align="center" src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" height="30" width="40" /></a>
 <br>
 <br>
 
