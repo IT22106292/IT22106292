@@ -2,8 +2,8 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- **I am a Full Stack Development Enthusiast**
-- 🌱 **I’m currently learning MERN**
+- 🚀**Full Stack Development Enthusiast**
+- 🌱 **Passionate about growing my skills in the MERN stack**
 - 👨‍💻 Studying [Software Engineering] at **Sri Lanka Institute of Information Technology (SLIIT)**
 <br>
 
