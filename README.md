@@ -5,7 +5,6 @@
 - **I am a Full Stack Development Enthusiast with a huge love for Python, React.js, Node.js, REST API and Data Visualization.**
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 👨‍💻 Studying [Software Engineering] at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 📫 How to reach me **archanasamadari@gmail.com**
 <br>
 
 
