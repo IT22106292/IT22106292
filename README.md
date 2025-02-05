@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,reactjs" />
   </a>
 </p>
 <br>
