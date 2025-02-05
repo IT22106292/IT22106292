@@ -83,6 +83,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
 <a href="mailto:it22106292@my.sliit.lk"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" height="30" width="40" /></a>
+<br>
+<br>
+
 
 
 
@@ -108,8 +111,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-<br>
-<br>
+
+
+
+
+
 <a href = 'https://www.github.com/IT22106292'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <br>
 <br>
