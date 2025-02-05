@@ -6,8 +6,6 @@
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 👨‍💻 Studying [Software Engineering] at **Sri Lanka Institute of Information Technology (SLIIT)**
 <br>
-
-
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
