@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>      
 <br>
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
-<a href = "mailto:it22106292@my.sliit.lk"><img align="center" src="https://png.pngtree.com/png-vector/20230817/ourmid/pngtree-google-email-mail-application-vector-png-image_9183278.png" height="40" width="40" /></a>
+<a href = "mailto:archanasamadari@gmail.com"><img align="center" src="https://png.pngtree.com/png-vector/20230817/ourmid/pngtree-google-email-mail-application-vector-png-image_9183278.png" height="40" width="40" /></a>
 <br>
 <br>
 <a href = 'https://www.github.com/IT22106292'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
