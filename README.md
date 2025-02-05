@@ -35,6 +35,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 <br>
 
+- **Front-End Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+<br>
+
 - **IDE**
 <p align="left">
   <a href="https://skillicons.dev">
