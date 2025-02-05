@@ -60,6 +60,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 <br>
 
+- **Software**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,postman" />
+  </a>
+</p>
+<br>
+<br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
