@@ -43,14 +43,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 <br>
 
-- **Mobile App Development**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactnative" />
-  </a>
-</p>
-<br>
-
 - **IDE**
 <p align="left">
   <a href="https://skillicons.dev">
