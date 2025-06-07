@@ -87,8 +87,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <br><br>
 
-<br>      
-<br>
+    
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
 <a href = "mailto:archanasamadari@gmail.com"><img align="center" src="https://png.pngtree.com/png-vector/20230817/ourmid/pngtree-google-email-mail-application-vector-png-image_9183278.png" height="40" width="40" /></a>
 <br>
