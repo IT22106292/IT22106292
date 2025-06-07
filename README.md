@@ -72,15 +72,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
-<div align=left>
-
-<a href="https://github.com/IT22106292/"> 
-
- <img src="https://github-readme-stats.vercel.app/api?username=IT22106292&hide=issues&show_icons=true&theme=gotham&locale=en&hide_border=true&layout=compact" alt="IT22106292's github stats" width=450px/>
-</a><br><br>
+<p align="center">
+  <a href="https://github.com/IT22106292">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IT22106292&show_icons=true&theme=radical&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=radical&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22106292&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
+<br><br>
 
 <br>      
 <br>
