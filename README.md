@@ -78,14 +78,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<br>
+
 <p align="center">
   <a href="https://github.com/IT22106292">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IT22106292&show_icons=true&hide_border=true&bg_color=0b3d0b&title_color=76ff03&icon_color=00e676&text_color=a7ffeb" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&hide_border=true&background=0b3d0b&stroke=2979ff&ring=9c27b0&fire=2979ff&currStreakNum=76ff03&currStreakLabel=ab47bc" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22106292&layout=compact&hide_border=true&bg_color=0b3d0b&title_color=76ff03&icon_color=00e676&text_color=a7ffeb" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IT22106292&show_icons=true&theme=radical&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=radical&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22106292&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
-
 
 
 <br><br>
