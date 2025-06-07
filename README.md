@@ -17,10 +17,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <p align="center">
 
 - **Languages**
-    
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,js,ts,kotlin" />
   </a>
 </p>
 <br>
@@ -28,7 +27,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,bootstrap,tailwind" />
   </a>
 </p>
 <br>
@@ -36,7 +35,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - **Back-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
   </a>
 </p>
 <br>
@@ -49,13 +48,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 <br>
 
-- **Database**
+- **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,php,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
   </a>
 </p>
-<br>
 <br>
 
 - **Software**
@@ -66,6 +64,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 <br>
 <br>
+
+- **DevOps & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,androidstudio,figma,postman" />
+  </a>
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
